@@ -82,14 +82,14 @@ China University of Geosciences (Wuhan) Laboratory Open Fund Project, Sentiment 
 2020.11: The 15th Central China Post-graduate Programming Contest in Wuhan University, Second Prize  
 2020.11: 武汉大学第十五届学术科技节之“锐捷网络杯”华中区高校研究生程序设计大赛二等奖
 
-2020.07：The Stars of Self-improvement of China University of Geosciences (Wuhan)  
-2020.07：中国地质大学（武汉）校级大学生自强之星
+2020.07: The Stars of Self-improvement of China University of Geosciences (Wuhan)  
+2020.07: 中国地质大学（武汉）校级大学生自强之星
 
-2020.07：The Excellent Party Members of China University of Geosciences (Wuhan)  
-2020.07：中国地质大学（武汉）校级优秀共产党员
+2020.07: The Excellent Party Members of China University of Geosciences (Wuhan)  
+2020.07: 中国地质大学（武汉）校级优秀共产党员
 
-2020.01：Man of the Year of School of Computer Science in China University of Geosciences (Wuhan)  
-2020.01：中国地质大学（武汉）计算机学院年度人物
+2020.01: Man of the Year of School of Computer Science in China University of Geosciences (Wuhan)  
+2020.01: 中国地质大学（武汉）计算机学院年度人物
 
 2019.11: The 16th China Post-graduate Mathematical Contest in Modeling, First Prize  
 2019.11: “华为杯”第十六届中国研究生数学建模竞赛一等奖
