@@ -63,7 +63,7 @@ Authors: **Huan Zhang**, Liangxiao Jiang*, Liangjun Yu
 Publication: Information Sciences, Vol 508, January 2020, Pages 260-274. (SCI, JCR-1, CCF-B, IF=5.542)
 
 **[Gain ratio weighted inverted specific-class distance measure for nominal attributes](https://link.springer.com/article/10.1007%2Fs13042-020-01112-8)**  
-Authors: Fang Gong, Liangxiao Jiang*, **Huan Zhang**, Dianhong Wang, Xingfeng Guo: 
+Authors: Fang Gong, Liangxiao Jiang*, **Huan Zhang**, Dianhong Wang, Xingfeng Guo:  
 Publication: International Journal of Machine Learning and Cybernetics, Vol 11, March 2020, Pages 2237–2246.
 
 ### Projects 科研项目
