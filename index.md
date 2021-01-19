@@ -10,7 +10,7 @@ I am Huan Zhang, born in April 1994, currently a first-year Ph.D. student at Chi
 :v: 2020.11- Many thanks to all, I got "The Rui-Ming Alumni Scholarship in China University of Geosciences (Wuhan) in 2020"! Only five students win the honor!  
 **非常感谢大家，我很荣幸获得“中国地质大学（武汉）2020年锐鸣校友奖学金”！全校仅5个名额！**
 
-:v: 2020.11- Our works "Data-driven optimization model of gasoline octane loss" is awarded with "The Second Prize of the 17th China Post-graduate Mathematical Contest in Modeling". Congratulations!
+:v: 2020.11- Our works "Data-driven optimization model of gasoline octane loss" is awarded with "The Second Prize of the 17th China Post-graduate Mathematical Contest in Modeling". Congratulations!  
 **我们的工作“数据驱动的汽油辛烷值损失优化模型”获得了“华为杯”第十七届中国研究生数学建模竞赛二等奖！恭喜！**
 
 :v: 2020.11- Congratulations! I got the second prize in "The 15th Central China Post-graduate Programming Contest in Wuhan University"! A great progress than last year!   
@@ -68,43 +68,43 @@ Publication: International Journal of Machine Learning and Cybernetics, Vol 11, 
 
 ### Projects 科研项目
 
-China University of Geosciences (Wuhan) Laboratory Open Fund Project, Sentiment Analysis of Short Text Classification in Deep Learning, Finished, Manager
+China University of Geosciences (Wuhan) Laboratory Open Fund Project, Sentiment Analysis of Short Text Classification in Deep Learning, Finished, Manager  
 中国地质大学（武汉）教学实验室开放基金项目，SKJ2018226，基于深度学习的短文本情感分析研究，2018/12-2019/12，已结题，主持
 
 ### Honors 获奖情况
 
-2020.11: The Rui-Ming Alumni Scholarship in China University of Geosciences (Wuhan)
+2020.11: The Rui-Ming Alumni Scholarship in China University of Geosciences (Wuhan)  
 2020.11: 中国地质大学（武汉）锐鸣校友奖学金
 
-2020.11: The 17th China Post-graduate Mathematical Contest in Modeling, Second Prize
+2020.11: The 17th China Post-graduate Mathematical Contest in Modeling, Second Prize  
 2020.11: “华为杯”第十七届中国研究生数学建模竞赛二等奖
 
-2020.11: The 15th Central China Post-graduate Programming Contest in Wuhan University, Second Prize
+2020.11: The 15th Central China Post-graduate Programming Contest in Wuhan University, Second Prize  
 2020.11: 武汉大学第十五届学术科技节之“锐捷网络杯”华中区高校研究生程序设计大赛二等奖
 
-2020.07：The Stars of Self-improvement of China University of Geosciences (Wuhan)
+2020.07：The Stars of Self-improvement of China University of Geosciences (Wuhan)  
 2020.07：中国地质大学（武汉）校级大学生自强之星
 
-2020.07：The Excellent Party Members of China University of Geosciences (Wuhan)
+2020.07：The Excellent Party Members of China University of Geosciences (Wuhan)  
 2020.07：中国地质大学（武汉）校级优秀共产党员
 
-2020.01：Man of the Year of School of Computer Science in China University of Geosciences (Wuhan)
+2020.01：Man of the Year of School of Computer Science in China University of Geosciences (Wuhan)  
 2020.01：中国地质大学（武汉）计算机学院年度人物
 
-2019.11: The 16th China Post-graduate Mathematical Contest in Modeling, First Prize
+2019.11: The 16th China Post-graduate Mathematical Contest in Modeling, First Prize  
 2019.11: “华为杯”第十六届中国研究生数学建模竞赛一等奖
 
-2019.11: The 30th Postgraduate Scientific Paper Presentations in China University of Geosciences (Wuhan), Outstanding Winner
+2019.11: The 30th Postgraduate Scientific Paper Presentations in China University of Geosciences (Wuhan), Outstanding Winner  
 2019.11: 中国地质大学（武汉）第三十届研究生科技论文报告会特等奖
 
-2019.09: The National Scholarship for Postgraduates
+2019.09: The National Scholarship for Postgraduates  
 2019.09: 硕士研究生国家奖学金
 
-2019.06: The 14th Central China Post-graduate Programming Contest in Wuhan University, Third Prize
+2019.06: The 14th Central China Post-graduate Programming Contest in Wuhan University, Third Prize  
 2019.06: 武汉大学第十四届学术科技节之“锐捷网络杯”华中区高校研究生程序设计大赛三等奖
 
-2019.05: Finals of The 10th LAN QIAO Programming Contest (Group of Post-graduate in Java Language), Third Prize
+2019.05: Finals of The 10th LAN QIAO Programming Contest (Group of Post-graduate in Java Language), Third Prize  
 2019.05: 第十届蓝桥杯程序设计大赛（Java研究生组）总决赛三等奖
 
-2019.03: Preliminary of The 10th LAN QIAO Programming Contest (Group of Post-graduate in Java Language), First Prize
+2019.03: Preliminary of The 10th LAN QIAO Programming Contest (Group of Post-graduate in Java Language), First Prize  
 2019.03: 第十届蓝桥杯程序设计大赛（Java研究生组）初赛一等奖
