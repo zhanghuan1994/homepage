@@ -7,6 +7,9 @@ I am Huan Zhang, born in April 1994, currently a first-year Ph.D. student at Chi
 
 ### News 最新动态
 
+:v: 2021.05- Our paper ''Attribute Augmented and Weighted Naive Bayes'' is accepted in SCIENCE CHINA Information Sciences (CCF-B, IF:3.304)! Congratulations!  
+**我们的工作“Attribute Augmented and Weighted Naive Bayes” 被录取到了 SCIENCE CHINA Information Sciences (CCF-B, IF:3.304)！恭喜！**
+
 :v: 2020.11- Many thanks to all, I got "The Rui-Ming Alumni Scholarship in China University of Geosciences (Wuhan) in 2020"! Only five students win the honor!  
 **非常感谢大家，我很荣幸获得“中国地质大学（武汉）2020年锐鸣校友奖学金”！全校仅5个名额！**
 
