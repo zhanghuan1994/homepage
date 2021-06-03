@@ -2,13 +2,13 @@
 
 I am Huan Zhang, born in April 1994, currently a first-year Ph.D. student at China University of Geosciences (CUG), a student member of China Computer Federation (CCF), and my supervisor is Prof. [Liangxiao Jiang](http://grzy.cug.edu.cn/jlx/zh_CN/index.htm). Previously, I received my B.S. degree in Computer Science and Technology from Central China Normal University (CCNU) in 2016. I joined the China Unionpay Merchant Service, Wuhan in 2016.7, working as a software engineer until 2018.8. At present, my research interests mainly include machine learning and data mining, especially Bayesian learning.
 
-我是张欢，1994年4月生，目前是中国地质大学（武汉）的一年级在读博士生，中国计算机学会（CCF）学生会员，导师是[蒋良孝](http://grzy.cug.edu.cn/jlx/zh_CN/index.htm)教授。2016年获得华中师范大学计算机科学与技术学士学位。2016年7月至2018年8月任银联商务有限公司（武汉）软件开发工程师。目前，我的研究兴趣主要包括机器学习和数据挖掘，尤其是贝叶斯学习。
+我是张欢，1994年4月生，目前是中国地质大学（武汉）的一年级在读博士生，中国计算机学会（CCF）学生会员，中国人工智能学会（CAAI）学生会员，导师是[蒋良孝](http://grzy.cug.edu.cn/jlx/zh_CN/index.htm)教授。2016年获得华中师范大学计算机科学与技术学士学位。2016年7月至2018年8月任银联商务有限公司（武汉）软件开发工程师。目前，我的研究兴趣主要包括机器学习和数据挖掘，尤其是贝叶斯学习。
 
 
 ### News 最新动态
 
-:v: 2021.05- Our paper ''Attribute Augmented and Weighted Naive Bayes'' is accepted in SCIENCE CHINA Information Sciences (CCF-B, IF:3.304)! Congratulations!  
-**我们的工作“Attribute Augmented and Weighted Naive Bayes” 被录取到了 SCIENCE CHINA Information Sciences (CCF-B, IF:3.304)！恭喜！**
+:v: 2021.05- Our paper ''Attribute Augmented and Weighted Naive Bayes'' is accepted in SCIENCE CHINA Information Sciences (CCF-B, IF:3.304)! The first work published in Science China Press and one of my favorite work so far, congratulations!  
+**我们的工作“Attribute Augmented and Weighted Naive Bayes” 被录取到了 SCIENCE CHINA Information Sciences (CCF-B, IF:3.304)！这是第一篇发表在国内出版社的工作，也是目前为止我最喜欢的工作之一，恭喜！**
 
 :v: 2020.11- Many thanks to all, I got "The Rui-Ming Alumni Scholarship in China University of Geosciences (Wuhan) in 2020"! Only five students win the honor!  
 **非常感谢大家，我很荣幸获得“中国地质大学（武汉）2020年锐鸣校友奖学金”！全校仅5个名额！**
