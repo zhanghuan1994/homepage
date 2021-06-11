@@ -79,6 +79,9 @@ China University of Geosciences (Wuhan) Laboratory Open Fund Project, Sentiment 
 
 ### Honors 获奖情况
 
+2021.06: The Excellent Party Members of China University of Geosciences (Wuhan)  
+2021.06: 中国地质大学（武汉）校级优秀共产党员
+
 2020.11: The Rui-Ming Alumni Scholarship in China University of Geosciences (Wuhan)  
 2020.11: 中国地质大学（武汉）锐鸣校友奖学金
 
