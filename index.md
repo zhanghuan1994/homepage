@@ -7,7 +7,7 @@ I am Huan Zhang, born in April 1994, currently a first-year Ph.D. student at Chi
 
 ### News 最新动态
 
-:v: 2021.06- Thanks to all my friends, I got the award as "The Excellent Party Members of China University of Geosciences (Wuhan) in 2020-2021". The only one in the school of computer science, congratulations!
+:v: 2021.06- Thanks to all my friends, I got the award as "The Excellent Party Members of China University of Geosciences (Wuhan) in 2020-2021". The only one in the school of computer science, congratulations!  
 **谢谢大家，我很荣幸被评为“2020-2021学年中国地质大学（武汉）校级优秀共产党员”！计算机学院唯一一个名额，恭喜！**
 
 :v: 2021.05- Our paper ''Attribute Augmented and Weighted Naive Bayes'' is accepted in SCIENCE CHINA Information Sciences (CCF-B, IF:3.304)! The first work published in Science China Press and one of my favorite work so far, congratulations!  
