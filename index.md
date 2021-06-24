@@ -7,8 +7,8 @@ I am Huan Zhang, born in April 1994, currently a first-year Ph.D. student at Chi
 
 ### News 最新动态
 
-:v: 2021.06- Thanks to all my friends, I got the award as "The Excellent Party Members of China University of Geosciences (Wuhan) in 2020-2021". The only one in the school of computer science, congratulations!  
-**谢谢大家，我很荣幸被评为“2020-2021学年中国地质大学（武汉）校级优秀共产党员”！计算机学院唯一一个名额，恭喜！**
+:v: 2021.06- Thanks to all my friends, I got the award as "The Excellent Communist Party Members of China University of Geosciences (Wuhan) in 2020-2021". The only one in the school of computer science, and this year is just the 100th anniversary of the founding of the communist party of China, congratulations!  
+**谢谢大家，我很荣幸被评为“2020-2021学年中国地质大学（武汉）校级优秀共产党员”！计算机学院唯一一个名额，恰逢建党100周年，恭喜！**
 
 :v: 2021.05- Our paper ''Attribute Augmented and Weighted Naive Bayes'' is accepted in SCIENCE CHINA Information Sciences (CCF-B, IF:3.304)! The first work published in Science China Press and one of my favorite work so far, congratulations!  
 **我们的工作“Attribute Augmented and Weighted Naive Bayes” 被录取到了 SCIENCE CHINA Information Sciences (CCF-B, IF:3.304)！这是第一篇发表在国内出版社的工作，也是目前为止我最喜欢的工作之一，恭喜！**
@@ -28,7 +28,7 @@ I am Huan Zhang, born in April 1994, currently a first-year Ph.D. student at Chi
 :v: 2020.07- Many thanks, I got the award as "The Stars of Self-improvement of China University of Geosciences (Wuhan) in 2019".  
 **非常感谢，我很荣幸被评为“2019年度中国地质大学（武汉）校级大学生自强之星”！**
 
-:v: 2020.07- Thanks to all my friends, I got the award as "The Excellent Party Members of China University of Geosciences (Wuhan) in 2019-2020".  
+:v: 2020.07- Thanks to all my friends, I got the award as "The Excellent Communist Party Members of China University of Geosciences (Wuhan) in 2019-2020".  
 **谢谢大家，我很荣幸被评为“2019-2020学年中国地质大学（武汉）校级优秀共产党员”！**
 
 :v: 2020.06- Our Laboratory Open Fund Project "Sentiment Analysis of Short Text Classification in Deep Learning" has been completed study! Thanks to all the team members!  
