@@ -7,6 +7,9 @@ I am Huan Zhang, born in April 1994, currently a first-year Ph.D. student at Chi
 
 ### News 最新动态
 
+:v: 2021.06- Congratulations! The project "Fine-Grained Attribute Weighting Methods for Naive Bayes" we applied has been successfully established in "The Excellent Ph.D. Candidate Innovation Foundation in China University of Geosciences (Wuhan)". The total amount can achieve 60,000 RMB. Stress and motivation coexist, keep going!  
+**祝贺！我们申请的项目“朴素贝叶斯细粒度属性加权方法研究”已经通过“中国地质大学（武汉）优秀博士创新基金”项目评审成功立项。资助总额可达到6万元。压力与动力并存，继续加油！**
+
 :v: 2021.06- Thanks to all my friends, I got the award as "The Excellent Communist Party Members of China University of Geosciences (Wuhan) in 2020-2021". The only one in the school of computer science, and this year is just the 100th anniversary of the founding of the communist party of China, congratulations!  
 **谢谢大家，我很荣幸被评为“2020-2021学年中国地质大学（武汉）校级优秀共产党员”！计算机学院唯一一个名额，恰逢建党100周年，恭喜！**
 
@@ -74,7 +77,10 @@ Publication: International Journal of Machine Learning and Cybernetics, Vol 11, 
 
 ### Projects 科研项目
 
-China University of Geosciences (Wuhan) Laboratory Open Fund Project, Sentiment Analysis of Short Text Classification in Deep Learning, Finished, Manager  
+The Excellent Ph.D. Candidate Innovation Foundation in China University of Geosciences (Wuhan), Fine-Grained Attribute Weighting Methods for Naive Bayes, 2021/06-2023/06, Ongoing, Manager  
+中国地质大学（武汉）优秀博士创新基金，CUGGC03，朴素贝叶斯细粒度属性加权方法研究，2021/06-2023/06，在研，主持
+
+China University of Geosciences (Wuhan) Laboratory Open Fund Project, Sentiment Analysis of Short Text Classification in Deep Learning, 2018/12-2019/12, Finished, Manager  
 中国地质大学（武汉）教学实验室开放基金项目，SKJ2018226，基于深度学习的短文本情感分析研究，2018/12-2019/12，已结题，主持
 
 ### Honors 获奖情况
