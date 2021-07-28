@@ -11,7 +11,7 @@ I am Huan Zhang, born in April 1994, currently a first-year Ph.D. student at Chi
 :v: 2021.07- Our paper ''CS-ResNet: Cost-Sensitive Residual Convolutional Neural Network for PCB Cosmetic Defect Detection'' is accepted in Expert Systems With Applications (CCF-C, IF:6.954)! The first work for me about practical applications in deep learning, congratulations!  
 **我们的工作“CS-ResNet: Cost-Sensitive Residual Convolutional Neural Network for PCB Cosmetic Defect Detection” 被录取到了 Expert Systems With Applications (CCF-C, IF:6.954)！这是本人第一篇关于深度学习实际应用的论文，恭喜！**
 
-:v: 2021.07- Congratulations! I have been awarded the Chinese Government Scholarship for Joint Training Ph.D. to sponsor my upcoming study abroad. Expect the life in Monash University! 
+:v: 2021.07- Congratulations! I have been awarded the Chinese Government Scholarship for Joint Training Ph.D. to sponsor my upcoming study abroad. Expect the life in Monash University!  
 **祝贺！我已经获得了公派留学联合培养博士生的资格，并且拿到了中国政府奖学金的资助。期待在蒙纳士大学的生活！**
 
 :v: 2021.06- Congratulations! The project "Fine-Grained Attribute Weighting Methods for Naive Bayes" we applied has been successfully established in "The Excellent Ph.D. Candidate Innovation Foundation in China University of Geosciences (Wuhan)". The total amount can achieve 60,000 RMB. Stress and motivation coexist, keep going!  
@@ -75,7 +75,7 @@ Authors: **Huan Zhang**, Liangxiao Jiang*, Chaoqun Li**
 Publication: Expert Systems With Applications, In press. (SCI, JCR-2, CCF-C, IF=6.954)
 
 **[Attribute Augmented and Weighted Naive Bayes](http://engine.scichina.com/doi/10.1007/s11432-020-3277-0)**  
-Authors: **Huan Zhang**, Liangxiao Jiang*, Chaoqun Li
+Authors: **Huan Zhang**, Liangxiao Jiang*, Chaoqun Li  
 Publication: SCIENCE CHINA Information Sciences, In press. (SCI, JCR-2, CCF-B, IF=3.306)
 
 **[Attribute and Instance Weighted Naive Bayes](https://linkinghub.elsevier.com/retrieve/pii/S0031320320304775)**  
@@ -100,7 +100,7 @@ China University of Geosciences (Wuhan) Laboratory Open Fund Project, Sentiment 
 
 ### Honors 获奖情况
 
-2021.07: Chinese Government Scholarship for Joint Training Ph.D.
+2021.07: Chinese Government Scholarship for Joint Training Ph.D.  
 2021.07: 联合培养博士生中国政府奖学金
 
 2021.06: The Excellent Communist Party Members of China University of Geosciences (Wuhan)  
