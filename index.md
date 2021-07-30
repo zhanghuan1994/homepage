@@ -4,6 +4,7 @@ I am Huan Zhang, born in April 1994, currently a first-year Ph.D. student at Chi
 
 我是张欢，1994年4月生，目前是中国地质大学（武汉）的一年级在读博士生，中国计算机学会（CCF）学生会员，中国人工智能学会（CAAI）学生会员，导师是[蒋良孝](http://grzy.cug.edu.cn/jlx/zh_CN/index.htm)教授。2016年获得华中师范大学计算机科学与技术学士学位。2016年7月至2018年8月任银联商务有限公司（武汉）软件开发工程师。目前，我的研究兴趣主要包括机器学习和数据挖掘，尤其是贝叶斯学习。
 
+![个人照片](/huanzhang.png)
 
 ### News 最新动态
 
