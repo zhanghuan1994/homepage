@@ -8,6 +8,8 @@ I am Huan Zhang, born in April 1994, currently a first-year Ph.D. student at Chi
 
 ### News 最新动态
 
+:v: 2021.10- Our paper ''Collaboratively Weighted Naive Bayes'' is accepted in Knowledge and Information Systems (CCF-B, IF:2.822)! It's the first work for me in Springer press, a good start, congratulations!  
+**我们的工作“Collaboratively Weighted Naive Bayes” 被录取到了 Knowledge and Information Systems (CCF-B, IF:2.822)！这是本人第一篇发表在Springer出版社的论文，是一个好的开始，祝贺！**
 
 :v: 2021.07- Our paper ''CS-ResNet: Cost-Sensitive Residual Convolutional Neural Network for PCB Cosmetic Defect Detection'' is accepted in Expert Systems With Applications (CCF-C, IF:6.954)! The first work for me about practical applications in deep learning, congratulations!  
 **我们的工作“CS-ResNet: Cost-Sensitive Residual Convolutional Neural Network for PCB Cosmetic Defect Detection” 被录取到了 Expert Systems With Applications (CCF-C, IF:6.954)！这是本人第一篇关于深度学习实际应用的论文，恭喜！**
