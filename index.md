@@ -73,9 +73,13 @@ I am Huan Zhang, born in April 1994, currently a first-year Ph.D. student at Chi
 
 ### Publications 科研论文
 
-**[CS-ResNet: Cost-Sensitive Residual Convolutional Neural Network for PCB Cosmetic Defect Detection]()**  
+**[Collaboratively Weighted Naive Bayes](https://link.springer.com/article/10.1007/s10115-021-01622-z)**  
+Authors: **Huan Zhang**, Liangxiao Jiang*, Chaoqun Li  
+Publication: Knowledge and Information Systems, Vol 63(12), December 2021, Pages 260-274. (SCI, JCR-3, CCF-B, IF:2.822)
+
+**[CS-ResNet: Cost-Sensitive Residual Convolutional Neural Network for PCB Cosmetic Defect Detection](https://www.sciencedirect.com/science/article/pii/S0957417421010617)**  
 Authors: **Huan Zhang**, Liangxiao Jiang*, Chaoqun Li**  
-Publication: Expert Systems With Applications, In press. (SCI, JCR-2, CCF-C, IF=6.954)
+Publication: Expert Systems With Applications, Vol 185, December 2021, 115673. (SCI, JCR-2, CCF-C, IF=6.954)
 
 **[Attribute Augmented and Weighted Naive Bayes](http://engine.scichina.com/doi/10.1007/s11432-020-3277-0)**  
 Authors: **Huan Zhang**, Liangxiao Jiang*, Chaoqun Li  
