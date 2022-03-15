@@ -8,6 +8,9 @@ I am Huan Zhang, born in April 1994, currently a first-year Ph.D. student at Chi
 
 ### News 最新动态
 
+:v: 2022.03- Our paper ''Fine tuning attribute weighted naive Bayes'' is accepted in Neurocomputing (CCF-C, IF:5.719)! This paper has been updated many versions during more than 2 years. Always believe that efforts will be fruitful!  
+**我们的工作“Fine tuning attribute weighted naive Bayes” 被录取到了 Neurocomputing (CCF-C, IF:5.719)！该论文的工作历经两年多，在这期间迭代了很多次，相信努力就有收获！**
+
 :v: 2021.10- Our paper ''Collaboratively Weighted Naive Bayes'' is accepted in Knowledge and Information Systems (CCF-B, IF:2.822)! It's the first work for me in Springer press, a good start, congratulations!  
 **我们的工作“Collaboratively Weighted Naive Bayes” 被录取到了 Knowledge and Information Systems (CCF-B, IF:2.822)！这是本人第一篇发表在Springer出版社的论文，是一个好的开始，祝贺！**
 
@@ -72,6 +75,10 @@ I am Huan Zhang, born in April 1994, currently a first-year Ph.D. student at Chi
 **祝贺！我很荣幸获得了“第十届蓝桥杯程序设计大赛（Java研究生组）初赛一等奖” ！期待北京的决赛！**
 
 ### Publications 科研论文
+
+**[Fine tuning attribute weighted naive Bayes](https://www.sciencedirect.com/science/article/pii/S0925231222002909)**  
+Authors: **Huan Zhang**, Liangxiao Jiang* 
+Publication: Neurocomputing, In press. (SCI, JCR-2, CCF-C, IF=5.719)
 
 **[Collaboratively Weighted Naive Bayes](https://link.springer.com/article/10.1007/s10115-021-01622-z)**  
 Authors: **Huan Zhang**, Liangxiao Jiang*, Chaoqun Li  
