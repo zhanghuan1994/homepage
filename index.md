@@ -2,7 +2,7 @@
 
 I am Huan Zhang, born in April 1994, currently a first-year Ph.D. student at China University of Geosciences (CUG), a student member of China Computer Federation (CCF), and my supervisor is Prof. [Liangxiao Jiang](http://grzy.cug.edu.cn/jlx/zh_CN/index.htm). Previously, I received my B.S. degree in Computer Science and Technology from Central China Normal University (CCNU) in 2016. I joined the China Unionpay Merchant Service, Wuhan in 2016.7, working as a software engineer until 2018.8. At present, my research interests mainly include machine learning and data mining, especially Bayesian learning.
 
-我是张欢，1994年4月生，目前是中国地质大学（武汉）的一年级在读博士生，中国计算机学会（CCF）学生会员，中国人工智能学会（CAAI）学生会员，导师是[蒋良孝](http://grzy.cug.edu.cn/jlx/zh_CN/index.htm)教授。2016年获得华中师范大学计算机科学与技术学士学位。2016年7月至2018年8月任银联商务有限公司（武汉）软件开发工程师。目前，我的研究兴趣主要包括机器学习和数据挖掘，尤其是贝叶斯学习。
+我是张欢，1994年4月生，目前是中国地质大学（武汉）的二年级在读博士生，中国计算机学会（CCF）学生会员，中国人工智能学会（CAAI）学生会员，导师是[蒋良孝](http://grzy.cug.edu.cn/jlx/zh_CN/index.htm)教授。2016年获得华中师范大学计算机科学与技术学士学位。2016年7月至2018年8月任银联商务有限公司（武汉）软件开发工程师。目前，我的研究兴趣主要包括机器学习和数据挖掘，尤其是贝叶斯学习。
 
 ![个人照片](/huanzhang.png)
 
@@ -78,7 +78,7 @@ I am Huan Zhang, born in April 1994, currently a first-year Ph.D. student at Chi
 
 **[Fine tuning attribute weighted naive Bayes](https://www.sciencedirect.com/science/article/pii/S0925231222002909)**  
 Authors: **Huan Zhang**, Liangxiao Jiang*  
-Publication: Neurocomputing, In press. (SCI, JCR-2, CCF-C, IF=5.719)
+Publication: Neurocomputing, Vol 488, June 2021, Pages 402-411. (SCI, JCR-2, CCF-C, IF=5.719)
 
 **[Collaboratively Weighted Naive Bayes](https://link.springer.com/article/10.1007/s10115-021-01622-z)**  
 Authors: **Huan Zhang**, Liangxiao Jiang*, Chaoqun Li  
