@@ -78,7 +78,7 @@ I am Huan Zhang, born in April 1994, currently a first-year Ph.D. student at Chi
 
 **[Fine tuning attribute weighted naive Bayes](https://www.sciencedirect.com/science/article/pii/S0925231222002909)**  
 Authors: **Huan Zhang**, Liangxiao Jiang*  
-Publication: Neurocomputing, Vol 488, June 2021, Pages 402-411. (SCI, JCR-2, CCF-C, IF=5.719)
+Publication: Neurocomputing, Vol 488, June 2022, Pages 402-411. (SCI, JCR-2, CCF-C, IF=5.719)
 
 **[Collaboratively Weighted Naive Bayes](https://link.springer.com/article/10.1007/s10115-021-01622-z)**  
 Authors: **Huan Zhang**, Liangxiao Jiang*, Chaoqun Li  
