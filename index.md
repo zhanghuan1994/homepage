@@ -117,7 +117,7 @@ China University of Geosciences (Wuhan) Laboratory Open Fund Project, Sentiment 
 
 ### Honors 获奖情况
 
-2022.04: The Model of Outstanding Graduate Student in China University of Geosciences (Wuhan) 
+2022.04: The Model of Outstanding Graduate Student in China University of Geosciences (Wuhan)  
 2022.04: 中国地质大学（武汉）校级优秀研究生标兵
 
 2021.07: Chinese Government Scholarship for Joint Training Ph.D.  
