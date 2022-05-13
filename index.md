@@ -8,6 +8,9 @@ I am Huan Zhang, born in April 1994, currently a first-year Ph.D. student at Chi
 
 ### News 最新动态
 
+:v: 2022.04- Thanks to all my friends, I got the award as "The Model of Outstanding Graduate Student in China University of Geosciences (Wuhan) in 2021". Only four PhD students were elected, a very high honor! Congratulations!  
+**谢谢大家，我很荣幸被评为“2021学年中国地质大学（武汉）校级优秀研究生标兵”！全校仅四名博士生当选，这是一份很高的荣誉，恭喜！**
+
 :v: 2022.03- Our paper ''Fine tuning attribute weighted naive Bayes'' is accepted in Neurocomputing (CCF-C, IF:5.719)! This paper has been updated many versions during more than 2 years. Always believe that efforts will be fruitful!  
 **我们的工作“Fine tuning attribute weighted naive Bayes” 被录取到了 Neurocomputing (CCF-C, IF:5.719)！该论文的工作历经两年多，在这期间迭代了很多次，相信努力就有收获！**
 
@@ -113,6 +116,9 @@ China University of Geosciences (Wuhan) Laboratory Open Fund Project, Sentiment 
 中国地质大学（武汉）教学实验室开放基金项目，SKJ2018226，基于深度学习的短文本情感分析研究，2018/12-2019/12，已结题，主持
 
 ### Honors 获奖情况
+
+2022.04: The Model of Outstanding Graduate Student in China University of Geosciences (Wuhan) 
+2022.04: 中国地质大学（武汉）校级优秀研究生标兵
 
 2021.07: Chinese Government Scholarship for Joint Training Ph.D.  
 2021.07: 联合培养博士生中国政府奖学金
