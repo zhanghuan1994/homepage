@@ -8,6 +8,9 @@ I am Huan Zhang, born in April 1994, currently a first-year Ph.D. student at Chi
 
 ### News 最新动态
 
+:v: 2022.05- Congratulations! We got a paper accepted in the top data mining journal IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE) entitled "Multi-view Attribute Weighted Naive Bayes"! It's my first CCF-A journal paper! Thanks to all my friends!  
+**祝贺！我们的工作“Multi-view Attribute Weighted Naive Bayes” 被数据挖掘顶刊 IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE) (CCF-A, IF:6.977) 录用！这是本人第一篇CCF-A类期刊论文！谢谢大家！**
+
 :v: 2022.04- Thanks to all my friends, I got the award as "The Model of Outstanding Graduate Student in China University of Geosciences (Wuhan) in 2021". Only four PhD students were elected, a very high honor! Congratulations!  
 **谢谢大家，我很荣幸被评为“2021学年中国地质大学（武汉）校级优秀研究生标兵”！全校仅四名博士生当选，这是一份很高的荣誉，恭喜！**
 
@@ -78,6 +81,10 @@ I am Huan Zhang, born in April 1994, currently a first-year Ph.D. student at Chi
 **祝贺！我很荣幸获得了“第十届蓝桥杯程序设计大赛（Java研究生组）初赛一等奖” ！期待北京的决赛！**
 
 ### Publications 科研论文
+
+**[Multi-view Attribute Weighted Naive Bayes](https://ieeexplore.ieee.org/document/9787796)**  
+Authors: **Huan Zhang**, Liangxiao Jiang, Wenjun Zhang, Chaoqun Li *  
+Publication: IEEE Transactions on Knowledge and Data Engineering, In press. (SCI, 中科院升级版大类2区, CCF-A, IF=6.977)
 
 **[Fine tuning attribute weighted naive Bayes](https://www.sciencedirect.com/science/article/pii/S0925231222002909)**  
 Authors: **Huan Zhang**, Liangxiao Jiang*  
