@@ -83,7 +83,7 @@ I am Huan Zhang, born in April 1994, currently a first-year Ph.D. student at Chi
 ### Publications 科研论文
 
 **[Multi-view Attribute Weighted Naive Bayes](https://ieeexplore.ieee.org/document/9787796)**  
-Authors: **Huan Zhang**, Liangxiao Jiang, Wenjun Zhang, Chaoqun Li *  
+Authors: **Huan Zhang**, Liangxiao Jiang*, Wenjun Zhang, Chaoqun Li  
 Publication: IEEE Transactions on Knowledge and Data Engineering, In press. (SCI, 中科院升级版大类2区, CCF-A, IF=6.977)
 
 **[Fine tuning attribute weighted naive Bayes](https://www.sciencedirect.com/science/article/pii/S0925231222002909)**  
