@@ -9,7 +9,7 @@ I am Huan Zhang, born in April 1994, currently a first-year Ph.D. student at Chi
 ### News 最新动态
 
 :v: 2022.06- Our works "Big data-driven modeling for power load forecasting" is awarded with "The Second Prize of the 10th Taidi Cup Data Mining Challenge Competition". Congratulations!  
-**祝贺！我们的工作“大数据驱动的电力系统负荷预测模型” 获得了“泰迪杯”第十届数据挖掘挑战赛二等奖！恭喜！**
+**我们的工作“大数据驱动的电力系统负荷预测模型” 获得了“泰迪杯”第十届数据挖掘挑战赛二等奖！恭喜！**
 
 :v: 2022.05- Congratulations! We got a paper accepted in the top data mining journal IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE) entitled "Multi-view Attribute Weighted Naive Bayes"! It's my first CCF-A journal paper! Thanks to all my friends!  
 **祝贺！我们的工作“Multi-view Attribute Weighted Naive Bayes” 被数据挖掘顶刊 IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE) (CCF-A, IF:6.977) 录用！这是本人第一篇CCF-A类期刊论文！谢谢大家！**
