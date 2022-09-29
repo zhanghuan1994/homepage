@@ -1,15 +1,15 @@
 # Welcome to Huan Zhang's Website! 欢迎来到我的个人网站!
 
-I am Huan Zhang, born in April 1994, currently a first-year Ph.D. student at China University of Geosciences (CUG), a student member of China Computer Federation (CCF), and my supervisor is Prof. [Liangxiao Jiang](http://grzy.cug.edu.cn/jlx/zh_CN/index.htm). Previously, I received my B.S. degree in Computer Science and Technology from Central China Normal University (CCNU) in 2016. I joined the China Unionpay Merchant Service, Wuhan in 2016.7, working as a software engineer until 2018.8. At present, my research interests mainly include machine learning and data mining, especially Bayesian learning.
+I am Huan Zhang, born in April 1994, currently a third-year Ph.D. student at China University of Geosciences (CUG), a student member of China Computer Federation (CCF), and my supervisor is Prof. [Liangxiao Jiang](http://grzy.cug.edu.cn/jlx/zh_CN/index.htm). Previously, I received my B.S. degree in Computer Science and Technology from Central China Normal University (CCNU) in 2016. I joined the China Unionpay Merchant Service, Wuhan in 2016.7, working as a software engineer until 2018.8. At present, my research interests mainly include machine learning and data mining, especially Bayesian learning.
 
-我是张欢，1994年4月生，目前是中国地质大学（武汉）的二年级在读博士生，中国计算机学会（CCF）学生会员，中国人工智能学会（CAAI）学生会员，导师是[蒋良孝](http://grzy.cug.edu.cn/jlx/zh_CN/index.htm)教授。2016年获得华中师范大学计算机科学与技术学士学位。2016年7月至2018年8月任银联商务有限公司（武汉）软件开发工程师。目前，我的研究兴趣主要包括机器学习和数据挖掘，尤其是贝叶斯学习。
+我是张欢，1994年4月生，目前是中国地质大学（武汉）的三年级在读博士生，中国计算机学会（CCF）学生会员，中国人工智能学会（CAAI）学生会员，导师是[蒋良孝](http://grzy.cug.edu.cn/jlx/zh_CN/index.htm)教授。2016年获得华中师范大学计算机科学与技术学士学位。2016年7月至2018年8月任银联商务有限公司（武汉）软件开发工程师。目前，我的研究兴趣主要包括机器学习和数据挖掘，尤其是贝叶斯学习。
 
 ![个人照片](/huanzhang.png)
 
 ### News 最新动态
 
-:v: 2022.06- Our works "Big data-driven modeling for power load forecasting" is awarded with "The Second Prize of the 10th Taidi Cup Data Mining Challenge Competition". Congratulations!  
-**我们的工作“大数据驱动的电力系统负荷预测模型” 获得了“泰迪杯”第十届数据挖掘挑战赛二等奖！恭喜！**
+:v: 2022.06- Our works "Big data-driven modeling for power load forecasting" is awarded with the first prize of Hubei province and the second prize of nation in the 10th Taidi Cup Data Mining Challenge Competition". Congratulations!  
+**我们的工作“大数据驱动的电力系统负荷预测模型” 获得了“泰迪杯”第十届数据挖掘挑战赛湖北省一等奖，国家级二等奖！恭喜！**
 
 :v: 2022.06- I have been arrived in Melbourne and started my study at Monash University as a visiting Ph.D. student, fighting!  
 **我已经到达墨尔本，以访问学生的身份开始了在蒙纳士大学的学习生活，加油！**
