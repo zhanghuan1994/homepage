@@ -130,10 +130,10 @@ China University of Geosciences (Wuhan) Laboratory Open Fund Project, Sentiment 
 
 ### Honors 获奖情况
 
-2022.06: The 10th Taidi Cup Data Mining Challenge Competition, Second Prize (National)
+2022.06: The 10th Taidi Cup Data Mining Challenge Competition, Second Prize (National)  
 2022.06: “泰迪杯”第十届数据挖掘挑战赛国家级二等奖
 
-2022.06: The 10th Taidi Cup Data Mining Challenge Competition, First Prize (Hubei Province)
+2022.06: The 10th Taidi Cup Data Mining Challenge Competition, First Prize (Hubei Province)  
 2022.06: “泰迪杯”第十届数据挖掘挑战赛湖北省一等奖
 
 2022.04: The Model of Outstanding Graduate Student in China University of Geosciences (Wuhan)  
