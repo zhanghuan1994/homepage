@@ -154,13 +154,13 @@ China University of Geosciences (Wuhan) Laboratory Open Fund Project, Sentiment 
 2020.11: The 15th Central China Post-graduate Programming Contest in Wuhan University, Second Prize  
 2020.11: 武汉大学第十五届学术科技节之“锐捷网络杯”华中区高校研究生程序设计大赛二等奖
 
-2020.07: The Stars of Self-improvement of China University of Geosciences (Wuhan)  
+2020.07: The Stars of Self-improvement Student in China University of Geosciences (Wuhan)  
 2020.07: 中国地质大学（武汉）校级大学生自强之星
 
 2020.07: The Excellent Communist Party Members of China University of Geosciences (Wuhan)  
 2020.07: 中国地质大学（武汉）校级优秀共产党员
 
-2020.01: Man of the Year of School of Computer Science in China University of Geosciences (Wuhan)  
+2020.01: Student of the Year in School of Computer Science in China University of Geosciences (Wuhan)  
 2020.01: 中国地质大学（武汉）计算机学院年度人物
 
 2019.11: The 16th China Post-graduate Mathematical Contest in Modeling, First Prize  
@@ -175,8 +175,8 @@ China University of Geosciences (Wuhan) Laboratory Open Fund Project, Sentiment 
 2019.06: The 14th Central China Post-graduate Programming Contest in Wuhan University, Third Prize  
 2019.06: 武汉大学第十四届学术科技节之“锐捷网络杯”华中区高校研究生程序设计大赛三等奖
 
-2019.05: Finals of The 10th LAN QIAO Programming Contest (Group of Post-graduate in Java Language), Third Prize  
+2019.05: Finals of the 10th LAN QIAO Programming Contest (Group of Post-graduate in Java Language), Third Prize  
 2019.05: 第十届蓝桥杯程序设计大赛（Java研究生组）总决赛三等奖
 
-2019.03: Preliminary of The 10th LAN QIAO Programming Contest (Group of Post-graduate in Java Language), First Prize  
+2019.03: Preliminary of the 10th LAN QIAO Programming Contest (Group of Post-graduate in Java Language), First Prize  
 2019.03: 第十届蓝桥杯程序设计大赛（Java研究生组）初赛一等奖
