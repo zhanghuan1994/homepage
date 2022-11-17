@@ -106,7 +106,7 @@ Publication: Expert Systems With Applications, Vol 185, December 2021, 115673. (
 
 **[Attribute Augmented and Weighted Naive Bayes](http://engine.scichina.com/doi/10.1007/s11432-020-3277-0)**  
 Authors: **Huan Zhang**, Liangxiao Jiang*, Chaoqun Li  
-Publication: SCIENCE CHINA Information Sciences, In press. (SCI, 中科院升级版大类2区, CCF-B, IF=3.306)
+Publication: SCIENCE CHINA Information Sciences, Vol 65(12), December 2022, 222101. (SCI, 中科院升级版大类2区, CCF-B, IF=3.306)
 
 **[Attribute and Instance Weighted Naive Bayes](https://linkinghub.elsevier.com/retrieve/pii/S0031320320304775)**  
 Authors: **Huan Zhang**, Liangxiao Jiang*, Liangjun Yu  
