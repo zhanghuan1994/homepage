@@ -8,6 +8,9 @@ I am Huan Zhang, born in April 1994, currently a third-year Ph.D. student at Chi
 
 ### News 最新动态
 
+:v: 2022.10- Congratulations! I got "the National Scholarship for Ph.D. in 2022"! Fighting!  
+**祝贺！我很荣幸获得“2022年博士研究生国家奖学金”！继续加油吧！**
+
 :v: 2022.06- Our works "Big data-driven modeling for power load forecasting" is awarded with the first prize of Hubei province and the second prize of nation in the 10th Taidi Cup Data Mining Challenge Competition". Congratulations!  
 **我们的工作“大数据驱动的电力系统负荷预测模型” 获得了“泰迪杯”第十届数据挖掘挑战赛湖北省一等奖，国家级二等奖！恭喜！**
 
@@ -129,6 +132,9 @@ China University of Geosciences (Wuhan) Laboratory Open Fund Project, Sentiment 
 中国地质大学（武汉）教学实验室开放基金项目，SKJ2018226，基于深度学习的短文本情感分析研究，2018/12-2019/12，已结题，主持
 
 ### Honors 获奖情况
+
+2022.10: The National Scholarship for Ph.D. 
+2022.10: 博士研究生国家奖学金
 
 2022.06: The 10th Taidi Cup Data Mining Challenge Competition, Second Prize (National)   
 2022.06: “泰迪杯”第十届数据挖掘挑战赛国家级二等奖
