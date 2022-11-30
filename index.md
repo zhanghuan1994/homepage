@@ -133,7 +133,7 @@ China University of Geosciences (Wuhan) Laboratory Open Fund Project, Sentiment 
 
 ### Honors 获奖情况
 
-2022.10: The National Scholarship for Ph.D. 
+2022.10: The National Scholarship for Ph.D.   
 2022.10: 博士研究生国家奖学金
 
 2022.06: The 10th Taidi Cup Data Mining Challenge Competition, Second Prize (National)   
