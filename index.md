@@ -1,14 +1,14 @@
 # Welcome to Huan Zhang's Website! 欢迎来到我的个人网站!
 
-I am Huan Zhang, born in April 1994, currently a third-year Ph.D. student at China University of Geosciences (CUG) and a visiting student of Monash University. I am a student member of China Computer Federation (CCF), and my supervisor is Prof. [Liangxiao Jiang](http://grzy.cug.edu.cn/jlx/zh_CN/index.htm) and Prof. [Geoff Webb](http://i.giwebb.com/). Previously, I received my B.S. degree in Computer Science and Technology from Central China Normal University (CCNU) in 2016. I joined the China Unionpay Merchant Service, Wuhan in 2016.7, working as a software engineer until 2018.8. At present, my research interests mainly include machine learning and data mining, especially Bayesian Network Classifier.
+I am Huan Zhang, born in April 1994, currently a third-year Ph.D. student at China University of Geosciences (CUG) and a visiting student of Monash University. I am a student member of China Computer Federation (CCF), and my supervisor is Prof. [Liangxiao Jiang](http://grzy.cug.edu.cn/jlx/zh_CN/index.htm) and Prof. [Geoff Webb](http://i.giwebb.com/). Previously, I received my B.S. degree in Computer Science and Technology from Central China Normal University (CCNU) in 2016. I joined the China Unionpay Merchant Service, Wuhan in 2016.7, working as a software engineer until 2018.8. At present, my research interests mainly include machine learning and data mining, such as Bayesian learning, crowdsourcing, cost-sensitive learning, and so on.
 
-我是张欢，1994年4月生，目前是中国地质大学（武汉）三年级博士生，也是莫纳什大学联合培养博士生，中国计算机学会（CCF）学生会员，中国人工智能学会（CAAI）学生会员，导师是[蒋良孝](http://grzy.cug.edu.cn/jlx/zh_CN/index.htm)教授和[Geoff Webb](http://i.giwebb.com/)教授。2016年获得华中师范大学计算机科学与技术学士学位。2016年7月至2018年8月任银联商务有限公司（武汉）软件开发工程师。目前，我的研究兴趣主要包括机器学习和数据挖掘，尤其是贝叶斯分类器。
+我是张欢，1994年4月生，目前是中国地质大学（武汉）的三年级博士生，也是蒙纳士大学的联合培养博士生，中国计算机学会（CCF）学生会员，中国人工智能学会（CAAI）学生会员，导师是[蒋良孝](http://grzy.cug.edu.cn/jlx/zh_CN/index.htm)教授和[Geoff Webb](http://i.giwebb.com/)教授。2016年获得华中师范大学计算机科学与技术学士学位。2016年7月至2018年8月任银联商务有限公司（武汉）软件开发工程师。目前，我的研究方向是机器学习和数据挖掘，如贝叶斯学习、众包学习、代价敏感学习等。
 
 ![个人照片](/huanzhang2.jpg)
 
 ### News 最新动态
 
-:v: 2023.03- Our paper "Rigorous non-disjoint discretization for naive Bayes" is accepted in CCF-B journal Pattern Recognition (IF:8.518)! It's my first work in Monash University as a visitor Ph.D. student. Congratulations!
+:v: 2023.03- Our paper "Rigorous non-disjoint discretization for naive Bayes" is accepted in CCF-B journal Pattern Recognition (IF:8.518)! It's my first work in Monash University as a visitor Ph.D. student. Congratulations!  
 **我们的工作“Rigorous non-disjoint discretization for naive Bayes”被CCF-B类期刊Pattern Recognition录用(IF:8.518)！这是我以访问学生的身份在蒙纳士大学的第一个工作。祝贺！**
 
 :v: 2022.10- Congratulations! I got "the National Scholarship for Ph.D. in 2022"! Fighting!  
