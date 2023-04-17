@@ -96,7 +96,7 @@ I am Huan Zhang, born in April 1994, currently a third-year Ph.D. student at Chi
 
 **[Rigorous non-disjoint discretization for naive Bayes](https://www.sciencedirect.com/science/article/pii/S0031320323002546?via%3Dihub)**  
 Authors: **Huan Zhang**, Liangxiao Jiang*, Geoffrey I. Webb*  
-Publication: Pattern Recognition, Vol XX, XX 2023, 109554. (SCI, 中科院1区, CCF-B, IF=8.518)
+Publication: Pattern Recognition, Vol 140, August 2023, 109554. (SCI, 中科院1区, CCF-B, IF=8.518)
 
 **[Multi-view Attribute Weighted Naive Bayes](https://ieeexplore.ieee.org/document/9787796)**  
 Authors: **Huan Zhang**, Liangxiao Jiang*, Wenjun Zhang, Chaoqun Li  
