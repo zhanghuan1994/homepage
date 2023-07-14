@@ -4,7 +4,7 @@ I am Huan Zhang, born in April 1994, currently is an associate research fellow o
 
 我是张欢，1994年4月生，目前担任郑州大学直聘副研究员，也是中国计算机学会和中国人工智能学会的会员。我于2016年6月获得华中师范大学计算机科学与技术学士学位，2023年6月获得中国地质大学（武汉）地学信息工程博士学位，曾于2022年6月至2023年6月在澳大利亚蒙纳士大学公派联合培养。在获得学士学位后，曾于2016年7月至2018年8月任银联商务有限公司（武汉）软件开发工程师。
 
-My research area is machine learning and data mining, and my research interests mainly include Bayesian classification, crowdsourcing, defect detection and so on.
+My research area is machine learning and data mining, and my research interests mainly include Bayesian classification, crowdsourcing, defect detection and so on.  
 我的研究领域是机器学习和数据挖掘，研究兴趣主要包括贝叶斯分类、众包学习、缺陷检测等。
 
 ![个人照片](/huanzhang2.jpg)
